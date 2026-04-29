@@ -242,4 +242,4 @@ Possible future enhancements:
 
 **Gajanan Jadhav**
 
-SQL | Data Engineering | Data Quality | Query Optimization | Analytics
+Aspiring Data Engineer | MIS Executive

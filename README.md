@@ -136,7 +136,6 @@ Deliverables/
 │   ├── q7_same_email_issue.md
 │   ├── q8_orphan_records.md
 │   ├── q9_no_orders.md
-│   ├── q10_fraud_detection.md
 │
 ├── 03_queries/
 │   ├── -top_selling_products.sql
@@ -205,11 +204,11 @@ This project includes:
 
 Optimization work includes:
 
-- Existing index analysis
-- Duplicate index cleanup
-- Missing index creation
-- EXPLAIN analysis
-- Query performance improvement
+- Objective
+- Existing Index Analysis
+- Optimization Approach
+- Redundant Index Removal
+- Missing Indexes Added
 
 ---
 

@@ -139,12 +139,12 @@ Deliverables/
 │   ├── q10_fraud_detection.md
 │
 ├── 03_queries/
-│   ├── q1_top_selling_products.sql
-│   ├── q2_revenue_by_state.sql
-│   ├── q3_monthly_orders.sql
-│   ├── q4_top_customers.sql
-│   ├── q5_delivery_performance.sql
-│   ├── q6_rank_products.sql
+│   ├── -top_selling_products.sql
+│   ├── -revenue_by_state.sql
+│   ├── -monthly_orders.sql
+│   ├── -top_customers.sql
+│   ├── -delivery_performance.sql
+│   ├── -rank_products.sql
 │   ├── queries_documentation.md
 │
 ├── 04_optimization/
